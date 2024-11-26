@@ -8,5 +8,5 @@ Code Folder:
   git lfs clone https://huggingface.co/JunhaoZhuang/PowerPaint_v2/ ./checkpoints/ppt-v2
   run this to download the weights
 
-Download Libcom and Graconet from and place it in the IE643_AI_ALCHEM directory
+Download Libcom and Graconet from and place it in the IE643_AI_ALCHEM directory: **megadrive link**
 

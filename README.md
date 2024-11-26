@@ -4,7 +4,9 @@ Environment setup
 
 Code Folder:
 - Ensure to download yolov8m-seg.pt and yolov8n.pt and store it in the code folder
-- Code/checkpoints/ should have ppt-v2 checkpoints and weights stored
+- Code/checkpoints/ should have ppt-v2 checkpoints and weights stored ->
+  git lfs clone https://huggingface.co/JunhaoZhuang/PowerPaint_v2/ ./checkpoints/ppt-v2
+  run this to download the weights
 
 Download Libcom and Graconet from and place it in the IE643_AI_ALCHEM directory
 

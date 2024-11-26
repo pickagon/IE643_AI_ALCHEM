@@ -6,5 +6,5 @@ Code Folder:
 - Ensure to download yolov8m-seg.pt and yolov8n.pt and store it in the code folder
 - Code/checkpoints/ should have ppt-v2 checkpoints and weights stored
 
-Libcom:
+Download Libcom and Graconet from and place it in the IE643_AI_ALCHEM directory
 

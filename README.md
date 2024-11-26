@@ -1,4 +1,10 @@
-CODE:
+Environment setup
+- Ensure Linux/wsl is used
+- Run the requirements.txt file to install everything in a conda environment or the environments file of conda
+
+Code Folder:
 - Ensure to download yolov8m-seg.pt and yolov8n.pt and store it in the code folder
 - Code/checkpoints/ should have ppt-v2 checkpoints and weights stored
+
+Libcom:
 
